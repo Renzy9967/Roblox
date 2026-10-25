@@ -8,7 +8,7 @@ local RunService = game:GetService("RunService")
 local plr = Players.LocalPlayer
 
 local Knit = require(RS:WaitForChild("Packages"):WaitForChild("Knit"))
-pcall(function() Knit.Start() end)
+--pcall(function() Knit.Start() end)
 local TreeService = Knit.GetService("TreeService")
 local AxeService = Knit.GetService("AxeService")
 local LumberMillService = Knit.GetService("LumberMillService")
