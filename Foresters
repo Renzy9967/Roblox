@@ -1,3 +1,4 @@
+print("v1")
 local Airflow = loadstring(game:HttpGet("https://raw.githubusercontent.com/joustingmatch/-3/refs/heads/main/Source.luau"))()
 getgenv().__Airflow = Airflow
 
